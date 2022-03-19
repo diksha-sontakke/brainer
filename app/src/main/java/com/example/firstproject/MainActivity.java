@@ -28,15 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    /*
-    private int dpWidth;
-    private int dpHeight;
 
-    private float dDensity;
-    private final int designwidth=375;
-    private final int designHeight=812;
-
-     */
 
 
     @Override
